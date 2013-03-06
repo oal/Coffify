@@ -1,5 +1,5 @@
-Grunt / CoffeeScript base
-=========================
+Coffify - Grunt / CoffeeScript / Browserify base project
+========================================================
 
 This is a small base project set up with Grunt / CoffeeScript and Browserify.
 
